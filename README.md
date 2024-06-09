@@ -1,6 +1,4 @@
-* Subdomain enum: https://github.com/blacklanternsecurity/bbot
-
-  Ex: bbot -t evilcorp.com -f subdomain-enum
+* Subdomain enumuration: bbot, massdns, assetfinder, subfinder and merge results.
 
 * Find websites:  https://github.com/Roman-Karchikyan/penetration_test/website-finder.py
 
