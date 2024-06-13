@@ -1,4 +1,6 @@
-* Subdomain enumuration: bbot, massdns, assetfinder, subfinder and merge results.
+
+
+* Subdomain enumuration: Configure bbot API keys.
 
 * Find websites:  https://github.com/Roman-Karchikyan/penetration_test/website-finder.py
 
